@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
     <img src="https://img.shields.io/static/v1?label=email&message=venshine.cn@gmail.com&color=7BB32E">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=venshine.venshine" alt="visitors">
+    <img src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=venshine&key=github&color=blue" alt="visitors">
 </p>
 
 𝑯𝒊, 𝑰'𝒎 ✨ venshine ✨, 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂. 𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓. 𝑰 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 𝒂 𝒍𝒐𝒕 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 𝒉𝒐𝒘 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆.
