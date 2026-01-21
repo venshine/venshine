@@ -62,8 +62,8 @@
 
 📈 **My GitHub Stats**
 
-![stat](https://github-readme-stats.vercel.app/api?username=venshine&count_private=true&show_icons=true&hide=contribs&include_all_commits=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venshine&layout=compact&size_weight=0.5&count_weight=0.5)
-
-
-
+<div>
+  <a href="https://github.com/venshine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venshine&count_private=true&show_icons=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venshine&layout=compact&langs_count=7"/>
+</div>
