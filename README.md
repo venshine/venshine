@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Followers-333-4C8BF5?style=flat&logo=github&logoColor=white" alt="Followers">
   </a>
   <a href="https://github.com/venshine?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-32-2EA44F?style=flat&logo=github&logoColor=white" alt="Public Repos">
+  <img src="https://img.shields.io/badge/All%20Repos-43-2EA44F?style=flat&logo=github&logoColor=white" alt="All Repos">
   </a>
   <a href="https://gitstar-ranking.com/venshine">
     <img src="https://img.shields.io/badge/Global%20Star%20Rank-Top%205k-FF6B6B?style=flat&logo=github&logoColor=white" alt="Global Star Rank">
