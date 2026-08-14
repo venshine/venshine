@@ -9,12 +9,27 @@
   />
 </p>
 
+<!-- STATS-START -->
+
+<p align="center">
+  <a href="https://github.com/venshine">
+    <img src="https://img.shields.io/badge/Total%20Stars-6.3k-FFD93D?style=flat&logo=github&logoColor=white" alt="Total Stars">
+  </a>
+  <a href="https://github.com/venshine?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-333-4C8BF5?style=flat&logo=github&logoColor=white" alt="Followers">
+  </a>
+  <a href="https://github.com/venshine?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-32-2EA44F?style=flat&logo=github&logoColor=white" alt="Public Repos">
+  </a>
+  <a href="https://gitstar-ranking.com/venshine">
+    <img src="https://img.shields.io/badge/Global%20Star%20Rank-Top%205k-FF6B6B?style=flat&logo=github&logoColor=white" alt="Global Star Rank">
+  </a>
+</p>
+<!-- STATS-END -->
+
 <p align="center">
   <a href="mailto:venshine.cn@gmail.com">
     <img src="https://img.shields.io/badge/Email-venshine.cn%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/venshine?tab=followers">
-    <img src="https://img.shields.io/github/followers/venshine?label=Followers&style=flat&logo=github" alt="Followers">
   </a>
   <img src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=venshine&key=github&color=blue" alt="Visitors">
 </p>
