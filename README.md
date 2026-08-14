@@ -26,15 +26,15 @@
 
 ## About Me
 
-I'm an **AI Product Builder, Full-Stack Engineer, and Tech Lead** from China.
+I'm an **AI Product Builder, Full-Stack Engineer, and Tech Lead**.
 
-I build products end-to-end — from **product definition and system architecture** to **AI integration, mobile & backend engineering, testing, evaluation, automation, and production delivery**.
+I build products end-to-end — from **product definition and system architecture** to **AI integration, client & backend engineering, testing, automation, and production delivery**.
 
-My current focus is **AI-native product development and Agentic Engineering**: not simply calling an LLM API or writing prompts, but designing the complete system around AI agents so they can reliably understand tasks, use tools, execute work, evaluate results, recover from failures, and close the loop.
+My current focus is **AI-native product development and Agentic Engineering**: designing systems around AI agents so they can understand tasks, use tools, execute work, evaluate results, recover from failures, and close the loop.
 
 > **Human Judgment + Rules + AI = Product**
 
-I believe the role of engineers is evolving from writing every line of code to defining the **right problems, architecture, constraints, context, tools, and evaluation standards**, while letting AI take over more of the execution.
+I believe engineers are moving from writing every line of code to defining the **right problems, architecture, constraints, context, tools, and evaluation standards**, while AI handles more of the execution.
 
 ---
 
@@ -42,13 +42,13 @@ I believe the role of engineers is evolving from writing every line of code to d
 
 ### 🤖 AI-Native Products
 
-Building products where AI is part of the core product experience rather than an isolated feature.
+Building products where AI is part of the core experience, not just an isolated feature.
 
 `LLM Apps` · `AI Agents` · `Memory` · `RAG` · `Voice AI` · `Multimodal AI`
 
 ### 🧠 Agentic Engineering
 
-Designing environments and control systems that allow AI agents to work **reliably, autonomously, and verifiably**.
+Designing systems that allow AI agents to work **reliably, autonomously, and verifiably**.
 
 `Harness Engineering` · `Loop Engineering` · `Graph Engineering` · `Context Engineering` · `Evaluation`
 
@@ -64,7 +64,7 @@ Building complete products across:
 
 ## Coding & Agent Tools
 
-I use AI agents throughout the real software engineering lifecycle — requirement analysis, architecture, implementation, debugging, testing, review, and delivery.
+I use AI agents across the software lifecycle — requirements, architecture, implementation, debugging, testing, review, and delivery.
 
 <p>
   <a href="https://www.anthropic.com/claude-code">
@@ -85,10 +85,10 @@ I use AI agents throughout the real software engineering lifecycle — requireme
 </p>
 
 **Claude Code · Codex · Cursor**  
-AI-native software development, repository understanding, implementation, debugging, testing, refactoring, and code review.
+AI-native development, repository understanding, implementation, debugging, testing, refactoring, and review.
 
 **OpenClaw · Hermes Agent**  
-Autonomous agents, tool use, skills, persistent workflows, task execution, and long-running agent systems.
+Autonomous agents, tool use, skills, workflows, task execution, and long-running agent systems.
 
 ## AI Platforms
 
@@ -104,7 +104,7 @@ Autonomous agents, tool use, skills, persistent workflows, task execution, and l
   </a>
 </p>
 
-I work across different models and platforms based on the task instead of binding engineering workflows to a single model.
+I choose models and platforms based on the task rather than binding workflows to a single model.
 
 ## AI Systems
 
@@ -118,7 +118,7 @@ I work across different models and platforms based on the task instead of bindin
   <img src="https://img.shields.io/badge/Multimodal%20AI-333333" alt="Multimodal AI">
 </p>
 
-Building AI systems around **agents, tools, context, memory, retrieval, multimodal interaction, orchestration, and closed-loop evaluation** — turning foundation models into reliable product capabilities.
+Building AI systems around **agents, tools, context, memory, retrieval, multimodal interaction, orchestration, and closed-loop evaluation**.
 
 ---
 
@@ -171,19 +171,19 @@ Building AI systems around **agents, tools, context, memory, retrieval, multimod
 
 `System Design` · `Architecture` · `API Design` · `CI/CD` · `Automation` · `Testing` · `Observability`
 
-I care about more than implementation — architecture boundaries, quality, maintainability, observability, delivery efficiency, and whether the whole system can continuously improve.
+I care about architecture, quality, maintainability, observability, delivery efficiency, and continuous improvement — not just implementation.
 
 ---
 
 # 🧩 Selected Projects
 
-My open-source work spans Android, Flutter/Dart, macOS, networking, developer tools, and engineering utilities.
+My open-source work spans mobile, developer tools, networking, and engineering utilities.
 
 ## 🆕 Recent Projects
 
 ### [NetLink](https://github.com/venshine/netlink)
 
-A native **macOS network environment inspection tool** for one-click checks of IP, proxy, DNS leaks, timezone consistency, and network security.
+A native **macOS network inspection tool** for checking IP, proxy, DNS leaks, timezone consistency, and network security.
 
 `Swift` · `macOS` · `Networking` · `Security` · `Developer Tool`
 
@@ -205,7 +205,7 @@ Visualizes **1–7 order Bézier curves** using the de Casteljau algorithm, incl
 
 ### [GoodView](https://github.com/venshine/GoodView)
 
-A lightweight Android component for elegant **+1 / like animations**, supporting both text and image content.
+A lightweight Android component for elegant **+1 / like animations**, supporting text and images.
 
 `Java` · `Android` · `Animation` · `UI Component`
 
@@ -214,7 +214,7 @@ A lightweight Android component for elegant **+1 / like animations**, supporting
 
 ### [WheelView](https://github.com/venshine/WheelView)
 
-A customizable Android **wheel picker component** built on `ListView`, supporting flexible styles and interaction.
+A customizable Android **wheel picker component** built on `ListView`.
 
 `Java` · `Android` · `Wheel Picker` · `UI Component`
 
@@ -225,17 +225,14 @@ A customizable Android **wheel picker component** built on `ListView`, supportin
 
 # 💡 What I Believe
 
-### AI makes execution cheap. Judgment becomes more valuable.
+### AI makes execution cheaper. Judgment becomes more valuable.
 
-Generating code is becoming easier.
-
-Knowing **what should be built, why it should exist, what constraints matter, and how to evaluate whether it is correct** becomes more important.
+As code generation gets easier, knowing **what to build, why it matters, and how to evaluate it** becomes more important.
 
 ### Define before you build.
 
-AI follows the direction given by context, rules, data, and feedback.
-
-If the definition is wrong, AI can simply make the wrong direction move faster.
+AI follows the direction set by context, rules, data, and feedback.  
+If the definition is wrong, AI only makes the wrong direction move faster.
 
 ### Human Judgment + Rules + AI = Product.
 
@@ -249,10 +246,6 @@ AI increasingly handles:
 
 ### Build loops, not one-shot prompts.
 
-The goal is not to get AI to generate something once.
-
-The goal is to build a system that can:
-
 ```text
 Understand → Plan → Build → Run → Evaluate → Fix → Verify
                                       ↑           ↓
@@ -261,7 +254,7 @@ Understand → Plan → Build → Run → Evaluate → Fix → Verify
 
 ### Ship real products.
 
-Technology matters when it solves a real problem, survives real-world constraints, and reaches real users.
+Technology matters when it solves real problems and reaches real users.
 
 ---
 
@@ -288,7 +281,7 @@ Technology matters when it solves a real problem, survives real-world constraint
 
 # 📫 Connect
 
-I'm interested in **AI-native products, Agentic Engineering, full-stack product development, engineering efficiency, and open source**.
+Interested in **AI-native products, Agentic Engineering, full-stack development, engineering efficiency, and open source**.
 
 <p>
   <a href="mailto:venshine.cn@gmail.com">
@@ -297,8 +290,4 @@ I'm interested in **AI-native products, Agentic Engineering, full-stack product 
   <a href="https://github.com/venshine">
     <img src="https://img.shields.io/badge/GitHub-venshine-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
-<p align="center">
-  <b>Think clearly · Build with AI · Ship what matters</b>
 </p>
