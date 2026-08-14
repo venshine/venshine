@@ -16,9 +16,6 @@
   <a href="https://github.com/venshine?tab=followers">
     <img src="https://img.shields.io/github/followers/venshine?label=Followers&style=flat&logo=github" alt="Followers">
   </a>
-  <a href="https://github.com/venshine">
-    <img src="https://img.shields.io/badge/GitHub-venshine-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <img src="https://api.visitor.plantree.me/visitor-badge/pv?namespace=venshine&key=github&color=blue" alt="Visitors">
 </p>
 
@@ -26,45 +23,29 @@
 
 ## About Me
 
-I'm an **AI Product Builder, Full-Stack Engineer, and Tech Lead**.
+**AI Product Builder · Full-Stack Engineer · Tech Lead**
 
-I build products end-to-end — from **product definition and system architecture** to **AI integration, client & backend engineering, testing, automation, and production delivery**.
+Building products end-to-end across **AI, product, architecture, client, backend, testing, automation, and delivery**.
 
-My current focus is **AI-native product development and Agentic Engineering**: designing systems around AI agents so they can understand tasks, use tools, execute work, evaluate results, recover from failures, and close the loop.
+Focused on **AI-native products and Agentic Engineering** — designing reliable systems where AI can understand, execute, evaluate, recover, and close the loop.
 
 > **Human Judgment + Rules + AI = Product**
 
-I believe engineers are moving from writing every line of code to defining the **right problems, architecture, constraints, context, tools, and evaluation standards**, while AI handles more of the execution.
-
 ---
 
-## What I'm Focused On
+## 🤖 AI & Agentic Engineering
 
-### 🤖 AI-Native Products
+### Agentic Engineering
 
-Building products where AI is part of the core experience, not just an isolated feature.
+<p>
+  <img src="https://img.shields.io/badge/Harness%20Engineering-111111" alt="Harness Engineering">
+  <img src="https://img.shields.io/badge/Loop%20Engineering-111111" alt="Loop Engineering">
+  <img src="https://img.shields.io/badge/Graph%20Engineering-111111" alt="Graph Engineering">
+  <img src="https://img.shields.io/badge/Context%20Engineering-111111" alt="Context Engineering">
+  <img src="https://img.shields.io/badge/Evaluation-111111" alt="Evaluation">
+</p>
 
-`LLM Apps` · `AI Agents` · `Memory` · `RAG` · `Voice AI` · `Multimodal AI`
-
-### 🧠 Agentic Engineering
-
-Designing systems that allow AI agents to work **reliably, autonomously, and verifiably**.
-
-`Harness Engineering` · `Loop Engineering` · `Graph Engineering` · `Context Engineering` · `Evaluation`
-
-### 🏗️ End-to-End Engineering
-
-Building complete products across:
-
-`Product` → `Architecture` → `Client` → `Backend` → `Data` → `AI` → `Testing` → `CI/CD` → `Production`
-
----
-
-# 🤖 AI & Agentic Engineering
-
-## Coding & Agent Tools
-
-I use AI agents across the software lifecycle — requirements, architecture, implementation, debugging, testing, review, and delivery.
+### Coding & Agent Tools
 
 <p>
   <a href="https://www.anthropic.com/claude-code">
@@ -84,29 +65,7 @@ I use AI agents across the software lifecycle — requirements, architecture, im
   </a>
 </p>
 
-**Claude Code · Codex · Cursor**  
-AI-native development, repository understanding, implementation, debugging, testing, refactoring, and review.
-
-**OpenClaw · Hermes Agent**  
-Autonomous agents, tool use, skills, workflows, task execution, and long-running agent systems.
-
-## AI Platforms
-
-<p>
-  <a href="https://chatgpt.com/">
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" alt="ChatGPT">
-  </a>
-  <a href="https://claude.ai/">
-    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude">
-  </a>
-  <a href="https://www.deepseek.com/">
-    <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?logo=deepseek&logoColor=white" alt="DeepSeek">
-  </a>
-</p>
-
-I choose models and platforms based on the task rather than binding workflows to a single model.
-
-## AI Systems
+### AI Systems
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-333333" alt="AI Agents">
@@ -114,51 +73,38 @@ I choose models and platforms based on the task rather than binding workflows to
   <img src="https://img.shields.io/badge/MCP-333333" alt="MCP">
   <img src="https://img.shields.io/badge/Agent%20Skills-333333" alt="Agent Skills">
   <img src="https://img.shields.io/badge/RAG-333333" alt="RAG">
-  <img src="https://img.shields.io/badge/Long--term%20Memory-333333" alt="Long-term Memory">
+  <img src="https://img.shields.io/badge/Memory-333333" alt="Memory">
   <img src="https://img.shields.io/badge/Multimodal%20AI-333333" alt="Multimodal AI">
 </p>
 
-Building AI systems around **agents, tools, context, memory, retrieval, multimodal interaction, orchestration, and closed-loop evaluation**.
+### AI Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?logo=deepseek&logoColor=white" alt="DeepSeek">
+</p>
 
 ---
 
-# 🚀 Core Stack
+## 🚀 Tech Stack
 
-## Mobile & Native
-
-<p>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
-  </a>
-  <a href="https://developer.android.com/">
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
-  </a>
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
-  </a>
-</p>
-
-## Languages
+### Mobile · Languages · Backend
 
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-</p>
-
-## Backend & Data
-
-<p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white" alt="Redis">
 </p>
 
----
-
-# ⚙️ Engineering
+### Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
@@ -166,99 +112,38 @@ Building AI systems around **agents, tools, context, memory, retrieval, multimod
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white" alt="Shell">
 </p>
 
-`System Design` · `Architecture` · `API Design` · `CI/CD` · `Automation` · `Testing` · `Observability`
-
-I care about architecture, quality, maintainability, observability, delivery efficiency, and continuous improvement — not just implementation.
+`System Design` · `Architecture` · `CI/CD` · `Automation` · `Testing`
 
 ---
 
-# 🧩 Selected Projects
+## 🧩 Projects
 
-My open-source work spans mobile, developer tools, networking, and engineering utilities.
+### 🆕 Recent
 
-## 🆕 Recent Projects
+**[NetLink](https://github.com/venshine/netlink)**  
+Native macOS network inspection tool.
 
-### [NetLink](https://github.com/venshine/netlink)
-
-A native **macOS network inspection tool** for checking IP, proxy, DNS leaks, timezone consistency, and network security.
-
-`Swift` · `macOS` · `Networking` · `Security` · `Developer Tool`
+`Swift` · `macOS` · `Networking` · `Security`
 
 [![Stars](https://img.shields.io/github/stars/venshine/netlink?style=flat&logo=github&label=Stars)](https://github.com/venshine/netlink/stargazers)
-[![License](https://img.shields.io/github/license/venshine/netlink?style=flat&label=License)](https://github.com/venshine/netlink)
 
----
+### ⭐ Popular Open Source
 
-## ⭐ Popular Open Source
-
-### [BezierMaker](https://github.com/venshine/BezierMaker)
-
-Visualizes **1–7 order Bézier curves** using the de Casteljau algorithm, including curve construction, tangent calculation, and animations.
-
-`Java` · `Android` · `Algorithm` · `Visualization`
+**[BezierMaker](https://github.com/venshine/BezierMaker)**  
+Bézier curve visualization and animation.
 
 [![Stars](https://img.shields.io/github/stars/venshine/BezierMaker?style=flat&logo=github&label=Stars)](https://github.com/venshine/BezierMaker/stargazers)
-[![Forks](https://img.shields.io/github/forks/venshine/BezierMaker?style=flat&logo=github&label=Forks)](https://github.com/venshine/BezierMaker/forks)
 
-### [GoodView](https://github.com/venshine/GoodView)
-
-A lightweight Android component for elegant **+1 / like animations**, supporting text and images.
-
-`Java` · `Android` · `Animation` · `UI Component`
-
-[![Stars](https://img.shields.io/github/stars/venshine/GoodView?style=flat&logo=github&label=Stars)](https://github.com/venshine/GoodView/stargazers)
-[![Forks](https://img.shields.io/github/forks/venshine/GoodView?style=flat&logo=github&label=Forks)](https://github.com/venshine/GoodView/forks)
-
-### [WheelView](https://github.com/venshine/WheelView)
-
-A customizable Android **wheel picker component** built on `ListView`.
-
-`Java` · `Android` · `Wheel Picker` · `UI Component`
+**[WheelView](https://github.com/venshine/WheelView)**  
+Customizable Android wheel picker.
 
 [![Stars](https://img.shields.io/github/stars/venshine/WheelView?style=flat&logo=github&label=Stars)](https://github.com/venshine/WheelView/stargazers)
-[![Forks](https://img.shields.io/github/forks/venshine/WheelView?style=flat&logo=github&label=Forks)](https://github.com/venshine/WheelView/forks)
 
 ---
 
-# 💡 What I Believe
-
-### AI makes execution cheaper. Judgment becomes more valuable.
-
-As code generation gets easier, knowing **what to build, why it matters, and how to evaluate it** becomes more important.
-
-### Define before you build.
-
-AI follows the direction set by context, rules, data, and feedback.  
-If the definition is wrong, AI only makes the wrong direction move faster.
-
-### Human Judgment + Rules + AI = Product.
-
-Humans define:
-
-`Goals` · `Rules` · `Constraints` · `Architecture` · `Trade-offs` · `Evaluation`
-
-AI increasingly handles:
-
-`Research` · `Implementation` · `Testing` · `Analysis` · `Iteration` · `Automation`
-
-### Build loops, not one-shot prompts.
-
-```text
-Understand → Plan → Build → Run → Evaluate → Fix → Verify
-                                      ↑           ↓
-                                      └─────↺─────┘
-```
-
-### Ship real products.
-
-Technology matters when it solves real problems and reaches real users.
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p>
   <a href="https://github.com/venshine">
@@ -274,20 +159,5 @@ Technology matters when it solves real problems and reaches real users.
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=venshine&layout=compact&langs_count=8&theme=transparent&hide_border=true"
       alt="Venshine's Top Languages"
     />
-  </a>
-</p>
-
----
-
-# 📫 Connect
-
-Interested in **AI-native products, Agentic Engineering, full-stack development, engineering efficiency, and open source**.
-
-<p>
-  <a href="mailto:venshine.cn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-venshine.cn%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/venshine">
-    <img src="https://img.shields.io/badge/GitHub-venshine-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
