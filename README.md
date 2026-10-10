@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://github.com/venshine">
-    <img src="https://img.shields.io/badge/Total%20Stars-6.3k-FFD93D?style=flat&logo=github&logoColor=white" alt="Total Stars">
+    <img src="https://img.shields.io/badge/Total%20Stars-6.4k-FFD93D?style=flat&logo=github&logoColor=white" alt="Total Stars">
   </a>
   <a href="https://github.com/venshine?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-333-4C8BF5?style=flat&logo=github&logoColor=white" alt="Followers">
+    <img src="https://img.shields.io/badge/Followers-334-4C8BF5?style=flat&logo=github&logoColor=white" alt="Followers">
   </a>
   <a href="https://github.com/venshine?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repos-43-2EA44F?style=flat&logo=github&logoColor=white" alt="All Repos">
+  <img src="https://img.shields.io/badge/All%20Repos-52-2EA44F?style=flat&logo=github&logoColor=white" alt="All Repos">
   </a>
   <a href="https://gitstar-ranking.com/venshine">
     <img src="https://img.shields.io/badge/Global%20Star%20Rank-Top%205k-FF6B6B?style=flat&logo=github&logoColor=white" alt="Global Star Rank">
