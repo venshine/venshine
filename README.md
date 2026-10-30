@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  English | <a href="README-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E65E2A&center=true&vCenter=true&width=720&height=45&lines=AI+Product+Builder+%C2%B7+Full-Stack+Engineer+%C2%B7+Tech+Lead;Build+AI-native+products+from+idea+to+production;Define+the+problem+%C2%B7+Set+the+rules+%C2%B7+Let+AI+execute"
     alt="Typing SVG"
